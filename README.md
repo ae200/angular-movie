@@ -1,5 +1,6 @@
 # MsaAngularApp
 
+This is a movie app built with Angular JavaScript framework as the front end, Apollo client, Bootstrap UI while GraphQL, NodeJS, ExpressGraphQL are working at the Backend. Atlas as the Data.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
 ## Development server
